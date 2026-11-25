@@ -49,7 +49,7 @@ Across 1,440 half-hourly Agile slots per DNO region:
 
 ## Primary Official Sources
 
-- HMRC: [Company car BiK appropriate percentages](https://www.gov.uk/guidance/company-car-benefit-the-appropriate-percentage-480-appendix-2) and [2028/29–2029/30 BiK rate changes](https://www.gov.uk/government/publications/changes-to-company-car-tax-rates-for-the-tax-years-2028-to-2029-and-2029-to-2030)
+- HMRC: [Company car BiK appropriate percentages](https://www.gov.uk/guidance/company-car-benefit-the-appropriate-percentage-480-appendix-2) and [2028/29–2029/30 BiK rate changes](https://www.gov.uk/government/publications/income-tax-company-car-tax-rates-2028-to-2030)
 - DVLA: [Vehicle tax rate tables (VED & ECS)](https://www.gov.uk/vehicle-tax-rate-tables)
 - Ofgem: [Energy Price Cap](https://www.ofgem.gov.uk/energy-price-cap)
 - Octopus Energy: [Public Products & Tariffs REST API](https://api.octopus.energy/v1/products/?brand=OCTOPUS_ENERGY&is_variable=true)
