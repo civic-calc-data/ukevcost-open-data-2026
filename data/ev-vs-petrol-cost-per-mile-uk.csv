@@ -1,0 +1,9 @@
+profile,powertrain,unit_price,efficiency,pence_per_mile,cost_per_100_miles_gbp,annual_energy_10k_miles_gbp,annual_ved_year2_gbp,total_annual_gbp,saving_vs_petrol_gbp
+"EV: Intelligent Octopus Go (100% home)",BEV,"7.00p/kWh","3.5 mi/kWh (+10% AC loss)",2.20,2.20,220.00,200.00,420.00,1417.00
+"EV: Blended (85% home 7p / 15% rapid 79p)",BEV,"7p home / 79p rapid","3.5 mi/kWh",5.43,5.43,543.00,200.00,743.00,1094.00
+"EV: Ofgem Q4 2026 Price Cap (home standard)",BEV,"26.32p/kWh","3.5 mi/kWh (+10% AC loss)",8.27,8.27,827.00,200.00,1027.00,810.00
+"EV: Octopus Agile best 4h window (GB avg)",BEV,"28.82p/kWh","3.5 mi/kWh (+10% AC loss)",9.06,9.06,906.00,200.00,1106.00,731.00
+"EV: Public AC kerbside / lamppost (54p/kWh)",BEV,"54.00p/kWh","3.5 mi/kWh (+10% AC loss)",16.97,16.97,1697.00,200.00,1897.00,-60.00
+"EV: Public rapid DC only (79p/kWh)",BEV,"79.00p/kWh","3.5 mi/kWh (+5% DC loss)",23.70,23.70,2370.00,200.00,2570.00,-733.00
+"Petrol family car (45 MPG at 162p/L)",Petrol,"162.0p/L","45 UK MPG",16.37,16.37,1637.00,200.00,1837.00,0.00
+"Diesel family car (55 MPG at 193p/L)",Diesel,"193.0p/L","55 UK MPG",15.95,15.95,1595.00,200.00,1795.00,42.00

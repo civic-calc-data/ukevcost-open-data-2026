@@ -1,0 +1,15 @@
+dno_code,region_name,dno_operator,half_hour_slots,mean_p_kwh,overnight_00_06_p_kwh,peak_16_19_p_kwh,peak_vs_overnight_spread_p,best_4h_daily_avg_p_kwh,min_plunge_p_kwh,max_peak_p_kwh,negative_slots_count,slots_under_15p_count,standing_charge_p_day
+C,"London","UK Power Networks",1440,35.32,27.80,56.38,28.58,26.75,-7.34,90.66,32,123,37.65
+M,"Yorkshire","Northern Powergrid",1440,35.45,27.80,57.38,29.58,26.75,-7.34,91.66,32,123,63.11
+B,"East Midlands","National Grid Electricity Distribution",1440,35.57,27.80,58.38,30.58,26.75,-7.34,92.66,32,123,52.24
+E,"West Midlands","National Grid Electricity Distribution",1440,37.18,29.36,58.77,29.41,28.26,-7.54,94.76,32,120,58.63
+F,"North Eastern England","Northern Powergrid",1440,37.18,29.36,58.77,29.41,28.26,-7.54,94.76,32,120,66.71
+G,"North Western England","Electricity North West",1440,37.18,29.36,58.77,29.41,28.26,-7.54,94.76,32,120,47.60
+H,"Southern England","Scottish and Southern Electricity Networks",1440,37.18,29.36,58.77,29.41,28.26,-7.54,94.76,32,120,59.26
+A,"Eastern England","UK Power Networks",1440,37.30,29.36,59.76,30.40,28.26,-7.54,95.23,32,120,46.46
+N,"Southern Scotland","SP Energy Networks",1440,37.30,29.36,59.76,30.40,28.26,-7.54,95.23,32,120,59.16
+J,"South Eastern England","UK Power Networks",1440,39.03,30.91,61.11,30.20,29.76,-7.74,95.23,32,115,53.13
+K,"South Wales","National Grid Electricity Distribution",1440,39.03,30.91,61.11,30.20,29.76,-7.74,95.23,32,115,59.11
+D,"Merseyside & North Wales","SP Energy Networks",1440,39.16,30.91,62.10,31.18,29.76,-7.74,95.23,32,115,62.70
+L,"South Western England","National Grid Electricity Distribution",1440,40.76,32.47,62.45,29.98,31.27,-7.94,95.23,32,114,62.92
+P,"Northern Scotland","Scottish and Southern Electricity Networks",1440,42.72,34.03,65.69,31.66,32.77,-8.14,95.23,31,113,57.07

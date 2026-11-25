@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these datasets in an article, report, or analysis, please cite UKEVCost as below."
+title: "UKEVCost Open Data 2026: UK EV BiK Tax Schedule (2025-2030), EV vs Petrol Cost per Mile, and Octopus Agile Regional Spread"
+type: dataset
+version: "2026.11"
+date-released: "2026-11-24"
+license: CC-BY-4.0
+url: "https://ukevcost.co.uk/reports/"
+authors:
+  - name: "UKEVCost"
+    website: "https://ukevcost.co.uk/"
+    email: "contact@ukevcost.co.uk"
+keywords:
+  - uk-ev
+  - bik-tax
+  - company-car-tax
+  - ved-road-tax
+  - octopus-agile
+  - ofgem-price-cap
+  - ev-charging
+  - open-data
+abstract: "Three open CSV datasets modeling legislated 2025/26-2029/30 UK EV Benefit-in-Kind tax increases across 15 electric cars, 10,000-mile EV vs petrol running costs including £200 VED, and Octopus Agile half-hourly regional spreads across all 14 Great Britain DNO zones."
